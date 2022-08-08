@@ -6,3 +6,5 @@ Cambio realizado desde el archivo local para enviar un push
 
 Cambio realizado desde Visual Studio Code para trabajar con GitHub Desktop
 
+Cambio realizado con nueva máquina virtual.
+
